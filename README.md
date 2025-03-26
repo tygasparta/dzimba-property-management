@@ -21,9 +21,10 @@ A comprehensive property management solution designed to streamline the manageme
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
-![Property Management](screenshots/properties.png)
-![Tenant Profile](screenshots/tenant-profile.png)
+![Landing Page](screenshots/landing-page.png)
+![Admin Dashboard](screenshots/admin-dashboard.png)
+![Property Owner Dashboard](screenshots/property-owner-dashboard.png)
+![Tenant Dashboard](screenshots/tenant-dashboard.png)
 
 ## Installation
 
